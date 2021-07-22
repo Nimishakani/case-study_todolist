@@ -1,0 +1,30 @@
+header{
+    padding: 20px;
+    
+    height: 5em;
+    /* background-color: #1A2226;
+    border-radius: 5%; */
+    
+}
+header .navs{
+    border-radius: 3%;
+}
+header ul{
+    text-align: center;
+    margin-left: 40%;
+}
+header li .item{
+    
+    font-size: 20px;
+    color: white;
+    
+}
+header li .item:hover{
+    color: darkgoldenrod ;
+}
+.sticky{
+    position: -webkit-sticky;
+	position: sticky;
+	top: 0;
+
+}
